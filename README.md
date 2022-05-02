@@ -11,9 +11,10 @@ Primer bloque de prácticas que incluye los conceptos básicos de C++.
 ### Videotutoriales del Curso abarcados
 
 Las preguntas y prácticas incluyen contenidos de los Videotutoriales 1 al 10 del Curso de C++ Básico.
+* [Descargar proyecto Visual Studio](https://github.com/videotutorialescom/PRACTCPP/archive/refs/heads/master.zip) - Descargar en formato zip
 
 ```
-* [Descargar proyecto Visual Studio](https://github.com/videotutorialescom/PRACTCPP/archive/refs/heads/master.zip) - Descargar en formato zip
+
 ```
 
 ### Installing
