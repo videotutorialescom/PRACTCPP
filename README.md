@@ -1,6 +1,8 @@
-# Project Title
+# Curso práctico de C++
 
-One Paragraph of project description goes here
+Actividades prácticas y de refuerzo para el Curso de C++ Básico, No Tan Básico y Avanzado de Videotutoriales.com
+
+* [Curso en YouTube](https://www.youtube.com/playlist?list=PLEtcGQaT56cjJWLMsy-UCQ05zogAp7zbQ) - Enlace al Curso en YouTube
 
 ## Getting Started
 
