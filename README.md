@@ -4,16 +4,17 @@ Actividades prácticas y de refuerzo para el Curso de C++ Básico, No Tan Básic
 
 * [Curso en YouTube](https://www.youtube.com/playlist?list=PLEtcGQaT56cjJWLMsy-UCQ05zogAp7zbQ) - Enlace al Curso en YouTube
 
-## Getting Started
+## 001 PRÁCTICAS CONCEPTOS FUNDAMENTALES
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Primer bloque de prácticas que incluye los conceptos básicos de C++.
 
-### Prerequisites
+### Videotutoriales del Curso abarcados
 
-What things you need to install the software and how to install them
+Las preguntas y prácticas incluyen contenidos de los Videotutoriales 1 al 10 del Curso de C++ Básico.
+* [Descargar proyecto Visual Studio](https://github.com/videotutorialescom/PRACTCPP/archive/refs/heads/master.zip) - Descargar en formato zip
 
 ```
-Give examples
+
 ```
 
 ### Installing
